@@ -98,5 +98,14 @@ button{
     
 }
 
+  .tasbih p,
+  .aistighfar p,
+  .salaah_ealaa_alnabaa p {
+    font-size: 18px;   /* أصغر على الموبايل */
+    line-height: 1.4;
+    
+  }
+
 
 }
+
